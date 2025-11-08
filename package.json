@@ -2,7 +2,7 @@
   "name": "react-calendar-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thanuja-04.github.io/react-calendar-app",
+  "homepage": "https://thanuja-04.github.io/calendar-app",
   "type": "module",
   "scripts": {
     "build": "vite build",
